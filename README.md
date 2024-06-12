@@ -61,7 +61,7 @@ The page of the challenge where you enter your name and pick the challenge which
 
 ![timer homepage](https://github.com/Rexon-Pambujya/timerChallenge/blob/main/images/Image1.png)
 
-The dialog or pop up which displays your score.
+The dialog or pop up which displays your score and if you've got timmer left .
 ![score dialog](https://github.com/Rexon-Pambujya/timerChallenge/blob/main/images/Image2.png)
 
 Thank you for going through my project.
